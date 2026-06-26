@@ -111,31 +111,6 @@ Hyperparameter tuning was performed using **GridSearchCV**.
 - Online Security and Tech Support significantly improve customer retention.
 - Contract Type is the most influential feature for churn prediction.
 
----
-
-## 📂 Project Structure
-
-```text
-Customer-Churn-Prediction/
-│
-├── dataset/
-│   └── Telco-Customer-Churn.csv
-│
-├── notebooks/
-│   └── Customer_Churn_Prediction.ipynb
-│
-├── images/
-│   ├── churn_distribution.png
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
 
 ## 📷 Sample Visualizations
 
